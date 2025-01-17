@@ -30,3 +30,12 @@ text-underline-position: from-font;
 text-decoration-skip-ink: none;
 color: #CAC9FF;
 }
+
+@media (max-width:600px) {
+   .circle_div{
+    width: 140px;
+height: 140px;
+
+
+   }
+}

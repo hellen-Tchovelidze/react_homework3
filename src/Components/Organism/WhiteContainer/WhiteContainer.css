@@ -8,3 +8,12 @@
     justify-content: space-between;
     
 }
+
+@media (max-width:600px) {
+    .WiteCont{
+        flex-direction: column;
+        height: 100vh;
+        width: 368px;
+        border-radius: 0px;
+    }
+}

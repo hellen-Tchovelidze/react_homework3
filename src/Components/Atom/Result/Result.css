@@ -9,3 +9,17 @@ text-underline-position: from-font;
 text-decoration-skip-ink: none;
 
 }
+
+
+@media (max-width:600px) {
+    .heading_blu{
+        font-family: Hanken Grotesk;
+font-size: 18px;
+font-weight: 700;
+line-height: 23.45px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+    }
+}

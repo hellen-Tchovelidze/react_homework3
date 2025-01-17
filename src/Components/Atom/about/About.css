@@ -29,3 +29,31 @@ text-underline-position: from-font;
 text-decoration-skip-ink: none;
 
 }
+.about_paragraph1{display: none;}
+
+
+@media (max-width:600px) {
+    .heading_about{
+        font-family: Hanken Grotesk;
+font-size: 24px;
+font-weight: 700;
+line-height: 31.27px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+    }
+    .about_paragraph{display: none;}
+    .about_paragraph1{
+        display: flex;
+        font-family: Hanken Grotesk;
+font-size: 16px;
+font-weight: 500;
+line-height: 20.85px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #CAC9FF;
+margin-bottom: 15px;
+    }
+}

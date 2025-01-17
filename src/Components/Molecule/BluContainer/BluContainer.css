@@ -10,3 +10,13 @@ align-items: center;
 flex-direction: column;
 gap: 40px;
 }
+
+@media (max-width:600px) {
+    .BluCont{
+       height: 356px
+       ;
+       width: 375px;
+       border-radius: 0px 0px 32px 32px;
+       gap: 8%;
+    }
+}
