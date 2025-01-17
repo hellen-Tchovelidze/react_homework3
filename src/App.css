@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: var(--Very-Light-blue, #ecf2ff);
+  height: 100vh;
+  width: 100%;
+  
+}
+

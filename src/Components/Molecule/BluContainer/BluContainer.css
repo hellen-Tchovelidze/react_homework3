@@ -1,0 +1,12 @@
+.BluCont{
+max-width:368px;
+width: 100%;
+height: 512px;
+background: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
+border-radius: 32px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 40px;
+}

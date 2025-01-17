@@ -1,0 +1,29 @@
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.spantex {
+  color: #303b59;
+  opacity: 0.5;
+  font-family: Hanken Grotesk;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23.45px;
+  text-align: right;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.numb {
+  color: #303b59;
+  font-family: Hanken Grotesk;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 23.45px;
+  text-align: right;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}

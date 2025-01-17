@@ -1,0 +1,31 @@
+.about_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.heading_about{
+   color: #FFFFFF;
+font-family: Hanken Grotesk;
+font-size: 32px;
+font-weight: 700;
+line-height: 41.7px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}
+
+.about_paragraph{
+ color: #CAC9FF;
+font-family: Hanken Grotesk;
+font-size: 18px;
+font-weight: 500;
+line-height: 23.45px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+}

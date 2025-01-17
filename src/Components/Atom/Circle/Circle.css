@@ -1,0 +1,32 @@
+.circle_div{
+    background: linear-gradient(180deg, #4D21C9 0%, rgba(37, 33, 201, 0) 100%, rgba(37, 33, 201, 0) 100%);
+    width: 200px;
+    height: 200px;
+   border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.circle_heading{
+font-family: Hanken Grotesk;
+font-size: 72px;
+font-weight: 800;
+line-height: 72px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+}
+
+.circle_num{
+font-family: Hanken Grotesk;
+font-size: 18px;
+font-weight: 700;
+line-height: 23.45px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #CAC9FF;
+}
